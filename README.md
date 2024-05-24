@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm a computer science student, currently diving into backend development, always learning and trying out different languages, frameworks, and libraries. I'm also really interested in low-level programming, compilers, interpreters, and IoT . I use Arch Linux, btw and I love using Neovim and tmux for my development experience. I'm open to anyone who wants to teach me, collaborate, or just chat about new opportunities.</p>
+<p align="left">I'm a computer science student, currently diving into backend development, always learning and trying out different languages, frameworks, and libraries. I'm also really interested in low-level programming, compilers, interpreters, and IoT . I use Arch Linux, btw and I love to use Neovim and tmux for my development experience. I'm open to anyone who wants to teach me, collaborate, or just chat about new opportunities.</p>
 
 ###
 
