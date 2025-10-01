@@ -38,6 +38,10 @@ im learning LLM because i wanna build inference server, and everything about GPU
 ### Backend
 - [RSS Feed Aggregator](https://github.com/wreckitral/rss-feed-aggregator) - Go-based feed aggregator with SQLite
   - *Tech: Go, PostgreSQL, REST API*
+ 
+### CompScie
+- [RSS Feed Aggregator](https://github.com/wreckitral/karatsuba-vs-bruteforce) - Comparing divide and conquer algorithm to bruteforce
+  - *Tech: Go, GNUPlot*
 ###
 
 ###
