@@ -22,8 +22,12 @@
 
 call me depa, tryna be crack GPU woman.
 
-# Current Learning
+## Current Learning
 im learning LLM because i wanna build inference server, and everything about GPU and HPC
+
+---
+
+## List of projects
 
 ### GPU 
 - [GPU Problems](https://github.com/wreckitral/gpu-problems) - Answers to gpu coding problems from various resources
