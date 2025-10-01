@@ -40,7 +40,7 @@ im learning LLM because i wanna build inference server, and everything about GPU
   - *Tech: Go, PostgreSQL, REST API*
  
 ### CompScie
-- [RSS Feed Aggregator](https://github.com/wreckitral/karatsuba-vs-bruteforce) - Comparing divide and conquer algorithm to bruteforce
+- [Karatsuba VS Bruteforce](https://github.com/wreckitral/karatsuba-vs-bruteforce) - Comparing divide and conquer algorithm to bruteforce
   - *Tech: Go, GNUPlot*
 ###
 
