@@ -37,8 +37,12 @@ im learning LLM because i wanna build inference server, and everything about GPU
 
 ### Backend
 - [RSS Feed Aggregator](https://github.com/wreckitral/rss-feed-aggregator) - Go-based feed aggregator with SQLite
-  - *Tech: Go, PostgreSQL, REST API*
- 
+  - *Tech: Go, SQLite, REST API*
+
+### Web App
+- [KicauFinder](https://github.com/orgs/DBS-Capstone/repositories) - An app to determine bird species by their sound, i built the backend, the inference server, and deployment.
+  - *Tech: Javascript, Python, PostgreSQL*
+  
 ### CompScie
 - [Karatsuba VS Bruteforce](https://github.com/wreckitral/karatsuba-vs-bruteforce) - Comparing divide and conquer algorithm to bruteforce
   - *Tech: Go, GNUPlot*
