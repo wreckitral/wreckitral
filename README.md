@@ -19,10 +19,10 @@
 ###
 
 # Hi, I'm Defhanaya
-call me depa, tryna be crack GPU woman.
+call me depa, i love computer, aiming to learn everything about it. (Check out my [X](https://www.x.com/_scramblecode) to know more about me XD)
 
 ## Current Learning
-im learning LLM because i wanna build inference server, and everything about GPU and HPC
+All about ML (leaning towards LLM), CUDA, System Design, System Engineering.
 
 ---
 
