@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://github.com/wreckitral/wreckitral/blob/main/having-coffee.jpeg?raw=true"  />
+  <img height="250" src=""  />
 </div>
 
 ###
@@ -37,16 +37,22 @@ im learning LLM because i wanna build inference server, and everything about GPU
   - *Tech: CUDA C/C++*
 - [LLM inference server](https://github.com/wreckitral/inference-server) - Inference server for LLM
   - *Tech: C++, python*
+- [Goziplla](https://github.com/wreckitral/goziplla.git) - Zip Cracker that runs on GPU
+  - *Tech: CUDA C++*
 
 </details>
 
 <details>
-<summary><strong>Backend</strong></summary>
+<summary><strong>Backend - Distributed System - System Design</strong></summary>
 
 <br>
 
 - [RSS Feed Aggregator](https://github.com/wreckitral/rss-feed-aggregator) - Go-based feed aggregator with SQLite
   - *Tech: Go, SQLite, REST API*
+- [Gaxsos](https://github.com/wreckitral/gaxsos.git) - Paxos algorithm written in Go
+  - *Tech: Go*
+- [Mahasiswa API](https://github.com/wreckitral/mahasiswa-api.git) - API for Student data
+  - *Tech: Go, Docker, MySQL*
 
 </details>
 
@@ -61,12 +67,34 @@ im learning LLM because i wanna build inference server, and everything about GPU
 </details>
 
 <details>
-<summary><strong>CompScie</strong></summary>
+<summary><strong>CompScie - ML - DSA</strong></summary>
 
 <br>
 
 - [Karatsuba VS Bruteforce](https://github.com/wreckitral/karatsuba-vs-bruteforce) - Comparing divide and conquer algorithm to bruteforce
   - *Tech: Go, GNUPlot*
+- [Dog VS Cat](https://github.com/wreckitral/dogvscat.git) - Inference code for my Dog and Cat classification model 
+  - *Tech: Python, Flask*
+
+</details>
+
+<details>
+<summary><strong>Learning Project</strong></summary>
+
+<br>
+
+- [Go-git](https://github.com/wreckitral/go-git.git) - Basic git command written in Go
+  - *Tech: Go*
+- [Go-blockchain](https://github.com/wreckitral/go-blockchain.git) - Simple Blockchain implementation using Go
+  - *Tech: Go*
+- [Go-lsp](https://github.com/wreckitral/go-lsp.git) - Emoticon LSP to learn how LSP works
+  - *Tech: Go*
+- [Go-redis](https://github.com/wreckitral/go-redis.git) - Implement basic redis command
+  - *Tech: Go*
+- [Go-http-server](https://github.com/wreckitral/go-http-server.git) - Go http server from scratch
+  - *Tech: Go*
+- [Go-bank](https://github.com/wreckitral/go-bank.git) - Bank API service 
+  - *Tech: Go*
 
 </details>
 
