@@ -22,7 +22,7 @@
 call me depa, i love computer, aiming to learn everything about it. (Check out my [X](https://www.x.com/_scramblecode) to know more about me XD)
 
 ## Current Learning
-All about ML (leaning towards LLM), CUDA, System Design, System Engineering.
+LLM System Engineering, CUDA, System Design, System Engineering.
 
 ---
 
