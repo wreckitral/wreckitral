@@ -49,6 +49,8 @@ LLM System Engineering, CUDA, Backend & System Design, System Engineering.
 
 - [RSS Feed Aggregator](https://github.com/wreckitral/rss-feed-aggregator) - Go-based feed aggregator with SQLite
   - *Tech: Go, SQLite, REST API*
+- [Consigment Microservices](https://github.com/wreckitral/faliux-vessel.git) - Microservices for consignment company
+  - *Tech: Go*
 - [Gaxsos](https://github.com/wreckitral/gaxsos.git) - Paxos algorithm written in Go
   - *Tech: Go*
 - [Mahasiswa API](https://github.com/wreckitral/mahasiswa-api.git) - API for Student data
