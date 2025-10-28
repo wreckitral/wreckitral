@@ -85,6 +85,8 @@ LLM System Engineering, CUDA, Backend & System Design, System Engineering.
 
 <br>
 
+- [Python Matrix Multiplication Benchmark](https://github.com/wreckitral/matmul-bench-py) - Learn PyTorch, compute vs memory bottleneck, CPU vs GPU execution models
+  - *Tech: Python, PyTorch, NumPy*
 - [Go-git](https://github.com/wreckitral/go-git.git) - Basic git command written in Go
   - *Tech: Go*
 - [Go-blockchain](https://github.com/wreckitral/go-blockchain.git) - Simple Blockchain implementation using Go
