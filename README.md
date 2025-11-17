@@ -14,6 +14,9 @@
   <a href="https://www.x.com/_scramblecode" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  <a href="https://www.youtube.com/@ScrambleCode18" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=CD201F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
