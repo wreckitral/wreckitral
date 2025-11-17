@@ -63,7 +63,7 @@ LLM System Engineering, CUDA, Backend & System Design, System Engineering.
 
 <br>
 
-- [KicauFinder](https://github.com/orgs/DBS-Capstone/repositories) - An app to determine bird species by their sound, i built the backend, the inference server, and deployment.
+- [KicauFinder](https://github.com/wreckitral/KicauFinder.git) - An app to determine bird species by their sound, i built the backend, the inference server, and deployment.
   - *Tech: Javascript, Python, PostgreSQL*
 
 </details>
