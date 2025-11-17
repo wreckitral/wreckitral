@@ -33,6 +33,8 @@ LLM System Engineering, CUDA, Backend & System Design, System Engineering.
 
 <br>
 
+- [FlashLite Attention](https://github.com/wreckitral/FlashLite-Attention.git) - My undergraduate final project (skripsi), build a simpler version of [FlashAttention](https://github.com/Dao-AILab/flash-attention.git)
+  - *Tech: CUDA C/C++, python*
 - [GPU Problems](https://github.com/wreckitral/gpu-problems) - Answers to gpu coding problems from various resources
   - *Tech: CUDA C/C++*
 - [LLM inference server](https://github.com/wreckitral/inference-server) - Inference server for LLM
