@@ -22,10 +22,10 @@
 ###
 
 # Hi, I'm Defhanaya
-call me depa, i love computer, aiming to learn everything about it. (Check out my [X](https://www.x.com/_scramblecode) to know more about me XD)
+call me depa, i love computer, i wanna be a crack SRE. (Check out my [X](https://www.x.com/_scramblecode) to know more about me XD)
 
 ## Current Learning
-LLM System Engineering, CUDA, Backend & System Design, System Engineering.
+DevOps & MLOps, Site Reliability Engineering, LLM Inference System Engineering, CUDA, Backend & System Design, System Engineering.
 
 ---
 
