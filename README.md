@@ -22,7 +22,7 @@
 ###
 
 # Hi, I'm Defhanaya
-call me depa, i love computer, i wanna be a crack SRE. (Check out my [X](https://www.x.com/_scramblecode) to know more about me XD)
+call me depa, i love computer, i wanna be a crack engineer. (Check out my [X](https://www.x.com/_scramblecode) to know more about me XD)
 
 ## Current Learning
 DevOps & MLOps, Site Reliability Engineering, LLM Inference System Engineering, CUDA, Backend & System Design, System Engineering.
